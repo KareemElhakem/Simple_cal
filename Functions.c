@@ -1,15 +1,8 @@
 #include"Functions.h"
 
 
-int *x   = &a;
-int *y   = &b;
-char *op = &c;
 
-
-
-
-
-void Cala()
+void Cala(int *x , int *y , char *op)
 {
     int result;
 

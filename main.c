@@ -24,7 +24,7 @@ int main()
 
 
 
-        Cala();
+        Cala(&a , &b , &c);
     }
 
 

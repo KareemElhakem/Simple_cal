@@ -8,7 +8,7 @@ int b;
 char c;
 
 
-void Cala();
+void Cala(int *x , int *y , char *op);
 
 
 
