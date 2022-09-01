@@ -3,7 +3,7 @@
 #include<stddef.h>
 
 
-int a;
+int k;
 int b;
 char c;
 

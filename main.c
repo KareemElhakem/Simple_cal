@@ -12,7 +12,7 @@ int main()
     while(1)
     {
         printf("\nPlease enter your first input number : ");
-        scanf("%d" , &a);
+        scanf("%d" , &k);
 
 
         printf("\nPlease enter your second input number : ");
@@ -24,7 +24,7 @@ int main()
 
 
 
-        Cala(&a , &b , &c);
+        Cala(&k , &b , &c);
     }
 
 
