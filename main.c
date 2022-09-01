@@ -11,7 +11,8 @@ int main()
 
     while(1)
     {
-        k = 5;
+
+        k = 10;
 
 
         printf("\nPlease enter your second input number : ");
